@@ -11,4 +11,6 @@ in fine-tuning MVCNN and (2) concatenating the output from each angle and train 
 learning MVCNN. Both architectures yielded an accuracy higher than 95% on the test set. The predictions from 
 the transfer learning MVCNN are slightly better than the fine-tuning MVCNN. <br/>
 <br/>
-The dataset is provided by TSA and a part of kaggle competition (https://www.kaggle.com/c/passenger-screening-algorithm-challenge) 
+The dataset is provided by TSA and a part of kaggle competition (https://www.kaggle.com/c/passenger-screening-algorithm-challenge) <br/>
+<br/>
+This work is a collaboration with Krongrath Suwannasri (@Krongrath)
