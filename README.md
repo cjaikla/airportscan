@@ -10,4 +10,5 @@ Our models capture information from eight different angles around a body scan by
 in fine-tuning MVCNN and (2) concatenating the output from each angle and train for more layers in transfer 
 learning MVCNN. Both architectures yielded an accuracy higher than 95% on the test set. The predictions from 
 the transfer learning MVCNN are slightly better than the fine-tuning MVCNN. <br/>
-
+<br/>
+The dataset is provided by TSA and a part of kaggle competition (https://www.kaggle.com/c/passenger-screening-algorithm-challenge) 
